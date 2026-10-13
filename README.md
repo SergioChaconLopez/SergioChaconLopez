@@ -1,26 +1,38 @@
-![Banner](45c5a8822181a6571f52508a47b32356.jpg)
+<img width="1523" height="2268" alt="image" src="https://github.com/user-attachments/assets/593268c4-04dc-4822-bbba-5cbebd9b5129" />![Banner](45c5a8822181a6571f52508a47b32356.jpg)
 
-Hola! Sóc Sergio Chacon Lopez 👋
-Qui sóc
-Sóc estudiant de SMX amb interès per la informàtica, les xarxes i la tecnologia.
+👋 Hola, sóc Sergio Chacon Lopez
+💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
-Què estic estudiant i què vull aprendre
-Actualment estic cursant SMX. M'interessa continuar aprenent sobre xarxes, administració de sistemes i ciberseguretat.
+👨‍💻 Sobre mi
+M'interessa el món de la informàtica, les xarxes i la tecnologia. Actualment estic cursant el cicle d'SMX, on estic adquirint coneixements sobre sistemes operatius, administració de xarxes i manteniment d'equips informàtics.
 
-Competències i tecnologies
+🎯 Objectius
+Actualment estic ampliant els meus coneixements en:
+
+Xarxes informàtiques
+Administració de sistemes Windows i Linux
+Virtualització
+Git i GitHub
+Ciberseguretat
+El meu objectiu és continuar formant-me i obtenir experiència dins del sector de les tecnologies de la informació.
+
+🛠️ Tecnologies i eines
 Windows
 Linux
-Git i GitHub
+Git
+GitHub
 VirtualBox
-Xarxes bàsiques
-HTML i CSS
-Projectes i pràctiques
-Configuració de xarxes locals.
-Instal·lació de sistemes operatius.
-Pràctiques de virtualització.
-Treballs amb Git i GitHub.
-Interessos personals i objectius professionals
-M'agrada la tecnologia i el món de la informàtica. El meu objectiu és continuar formant-me i treballar en el sector informàtic.
+HTML
+CSS
+📂 Projectes i pràctiques
+Durant els meus estudis he realitzat diferents pràctiques relacionades amb:
 
-Contacte
+Configuració de xarxes locals
+Instal·lació i manteniment de sistemes operatius
+Virtualització de sistemes
+Control de versions amb Git i GitHub
+🚀 Interessos
+M'agrada aprendre noves tecnologies i millorar les meves habilitats tècniques. També tinc interès en la ciberseguretat, les xarxes i l'administració de sistemes.
+
+📫 Contacte
 GitHub: https://github.com/SergioChaconLopez

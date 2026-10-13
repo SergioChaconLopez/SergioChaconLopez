@@ -3,6 +3,8 @@
 **👋 Hola, sóc Sergio Chacon Lopez**
 
 **👨‍💻 Qui sóc**
+
+
 Sóc estudiant de Sistemes Microinformàtics i Xarxes (SMX) amb interès per la informàtica, les xarxes i les noves tecnologies. M'agrada aprendre nous coneixements i desenvolupar les meves habilitats tècniques a través de pràctiques i projectes.
 
 **📚 Què estic estudiant i què vull aprendre**

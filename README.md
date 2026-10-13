@@ -1,4 +1,4 @@
-![Banner](45c5a8822181a6571f52508jpg
+![Banner](45c5a8822181a6571f52508.jpg)
 
 Hola! Sóc Sergio Chacon Lopez 👋
 Qui sóc

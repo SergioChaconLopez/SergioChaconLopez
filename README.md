@@ -1,7 +1,8 @@
 ![Banner](imag.webp)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&ow_icons=true&theme=tokyonight
-</p>
+<p align="center">
+  <img src="thub-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioChaconLopez&layout=compact&theme=tokyonight" Hola, soy Sergio Chacon Lopez
 
 # 👋 Hola, soy Sergio Chacon Lopez
 

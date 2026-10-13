@@ -1,38 +1,48 @@
 ![Banner](45c5a8822181a6571f52508a47b32356.jpg)
 
 👋 Hola, sóc Sergio Chacon Lopez
-💻 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
+👨‍💻 Qui sóc
+Sóc estudiant de Sistemes Microinformàtics i Xarxes (SMX) amb interès per la informàtica, les xarxes i les noves tecnologies. M'agrada aprendre nous coneixements i desenvolupar les meves habilitats tècniques a través de pràctiques i projectes.
 
-👨‍💻 Sobre mi
-M'interessa el món de la informàtica, les xarxes i la tecnologia. Actualment estic cursant el cicle d'SMX, on estic adquirint coneixements sobre sistemes operatius, administració de xarxes i manteniment d'equips informàtics.
+📚 Què estic estudiant i què vull aprendre
+Actualment estic cursant SMX, on estic adquirint coneixements sobre:
 
-🎯 Objectius
-Actualment estic ampliant els meus coneixements en:
-
-Xarxes informàtiques
 Administració de sistemes Windows i Linux
+Xarxes informàtiques
+Manteniment d'equips informàtics
 Virtualització
-Git i GitHub
-Ciberseguretat
-El meu objectiu és continuar formant-me i obtenir experiència dins del sector de les tecnologies de la informació.
+Seguretat informàtica bàsica
+M'interessa continuar aprenent sobre ciberseguretat, administració de sistemes i tecnologies de xarxa.
 
-🛠️ Tecnologies i eines
+🛠️ Competències i tecnologies
+💻 Sistemes Operatius
 Windows
 Linux
+🌐 Xarxes
+Configuració IP
+Xarxes locals
+Resolució d'incidències
+🔧 Eines
 Git
 GitHub
+Visual Studio Code
 VirtualBox
+📄 Altres coneixements
 HTML
 CSS
-📂 Projectes i pràctiques
-Durant els meus estudis he realitzat diferents pràctiques relacionades amb:
-
-Configuració de xarxes locals
-Instal·lació i manteniment de sistemes operatius
-Virtualització de sistemes
-Control de versions amb Git i GitHub
-🚀 Interessos
-M'agrada aprendre noves tecnologies i millorar les meves habilitats tècniques. També tinc interès en la ciberseguretat, les xarxes i l'administració de sistemes.
+Ofimàtica
+Muntatge i manteniment d'ordinadors
+🚀 Projectes i pràctiques
+Configuració de xarxes locals.
+Instal·lació i configuració de sistemes operatius.
+Pràctiques de virtualització.
+Treballs amb Git i GitHub.
+Resolució d'incidències informàtiques.
+🎯 Interessos i objectius professionals
+M'agrada la tecnologia i el món de la informàtica. El meu objectiu és continuar formant-me, adquirir experiència professional i desenvolupar la meva carrera dins del sector tecnològic.
 
 📫 Contacte
-GitHub: https://github.com/SergioChaconLopez
+💻 GitHub:
+https://github.com/SergioChaconLopez
+
+⭐ Gràcies per visitar el meu perfil de GitHub!

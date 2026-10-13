@@ -11,8 +11,6 @@
 
 ### 🎓 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
-📬 Contacte • 💻 Projectes • 🛠️ Competències
-
 ---
 
 ## 👨‍💻 Qui soc

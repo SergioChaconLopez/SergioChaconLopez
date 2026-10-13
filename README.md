@@ -1,8 +1,11 @@
 ![Banner](imag.webp)
 
+<!-- Targetes d'estadístiques de GitHub -->
 <p align="center">
-  <img src="thub-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&theme=tokyonight
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioChaconLopez&layout=compact&theme=tokyonight" Hola, soy Sergio Chacon Lopez
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&theme=dark" alt="Estadístiques de GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioChaconLopez&layout=compact&theme=dark" alt="Llenguatges més utilitzats" height="150"/>
+</p>
+</div>
 
 # 👋 Hola, soy Sergio Chacon Lopez
 

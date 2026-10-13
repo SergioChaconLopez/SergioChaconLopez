@@ -1,4 +1,4 @@
-![Banner](imatge.jpg)
+![Banner](imag.webp)
 
 <div align="center">
 

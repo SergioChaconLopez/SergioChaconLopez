@@ -1,9 +1,8 @@
 ![Banner](imag.webp)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&themet
-  <img src="https://github-readme-stats.vercel.app/api/top-langs=SergioChaconLopez&layout=compact&theme=tokyonight
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&onight
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioChaconLopez&layout=compact&theme=tokyonight" alt="
 
 # 👋 Hola, soy Sergio Chacon Lopez
 

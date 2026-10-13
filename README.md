@@ -1,5 +1,10 @@
 ![Banner](imag.webp)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioChaconLopez&show_icons=true&themet
+  <img src="https://github-readme-stats.vercel.app/api/top-langs=SergioChaconLopez&layout=compact&theme=tokyonight
+</p>
+
 # 👋 Hola, soy Sergio Chacon Lopez
 
 ### 🎓 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)

@@ -1,3 +1,5 @@
+![Banner](45c5a8822181a6571f52508jpg
+
 Hola! Sóc Sergio Chacon Lopez 👋
 Qui sóc
 Sóc estudiant de SMX amb interès per la informàtica, les xarxes i la tecnologia.

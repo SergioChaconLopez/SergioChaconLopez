@@ -7,96 +7,53 @@
 </p>
 </div>
 
-# 👋 Hola, soy Sergio Chacon Lopez
+# 👋 Hola, soc Sergio Chacon Lopez
 
 ### 🎓 Estudiant de Sistemes Microinformàtics i Xarxes (SMX)
 
-📬 [Contacte](#-contacte) • 💻 [Projectes](#-projectes-i-pràctiques) • 🛠️ [Competències](#️-competències-i-estudiant de **Sistemes Microinformàtics i Xarxes (SMX)** amb interès per la informàtica, les xarxes i les noves tecnologies.
-
-M'agrada aprendre nous coneixements, desenvolupar les meves habilitats tècniques i adquirir experiència a través de pràctiques i projectes relacionats amb el sector informàtic.
+📬 Contacte • 💻 Projectes • 🛠️ Competències
 
 ---
 
-## 📚 Què estic estudiant i què vull aprendre
+## 👨‍💻 Qui soc
 
-Actualment estic cursant **SMX**, on estic adquirint coneixements sobre:
+Soc estudiant d'SMX amb interès per la informàtica, les xarxes i les noves tecnologies. M'agrada aprendre i millorar les meves habilitats tècniques.
 
-- Administració de sistemes Windows i Linux
+---
+
+## 📚 Formació
+
+Actualment estic estudiant:
+
+- Windows i Linux
 - Xarxes informàtiques
-- Manteniment d'equips informàtics
 - Virtualització
 - Seguretat informàtica bàsica
 
 ### 🎯 Objectius
 
-- Aprendre més sobre ciberseguretat
-- Millorar els meus coneixements d'administració de sistemes
-- Ampliar les meves competències en xarxes
-- Continuar formant-me dins del sector tecnològic
+- Aprendre ciberseguretat
+- Millorar en administració de sistemes
+- Ampliar coneixements de xarxes
 
 ---
 
-## 🛠️ Competències i tecnologies
+## 🛠️ Competències
 
-### 💻 Sistemes Operatius
-- Windows
-- Linux
-
-### 🌐 Xarxes
-- TCP/IP
-- DNS
-- DHCP
-- Configuració IP
-- Xarxes locals
-
-### 🔧 Eines
-- Git
-- GitHub
-- Visual Studio Code
+- Windows i Linux
+- TCP/IP, DNS i DHCP
+- Git i GitHub
 - VirtualBox
-
-### 🌍 Desenvolupament Web
-- HTML
-- CSS
-
-### 🖥️ Hardware
-- Muntatge i manteniment d'ordinadors
-- Resolució d'incidències
+- HTML i CSS
 
 ---
 
 ## 🚀 Projectes i pràctiques
 
-### 🌐 Configuració de xarxes locals
-Configuració de xarxes, assignació d'adreces IP i resolució d'incidències.
-
-### 💻 Instal·lació de sistemes operatius
-Instal·lació i configuració de Windows i Linux en equips físics i virtuals.
-
-### 🖥️ Virtualització
-Creació i administració de màquines virtuals amb VirtualBox.
-
-### 🔄 Git i GitHub
-Control de versions, gestió de repositoris i treball col·laboratiu.
-
-### 🛠️ Suport tècnic
-Diagnòstic i resolució de problemes de maquinari i programari.
-
----
-
-## 🎯 Interessos i objectius professionals
-
-✅ Xarxes informàtiques
-
-✅ Ciberseguretat
-
-✅ Administració de sistemes
-
-✅ Hardware
-
-✅ Noves tecnologies
-
-El meu objectiu és continuar formant-me, adquirir experiència professional i desenvolupar la meva carrera dins del sector tecnològic.
+- Configuració de xarxes locals.
+- Instal·lació de sistemes operatius.
+- Virtualització amb VirtualBox.
+- Treballs amb Git i GitHub.
 
 ---
 
@@ -108,13 +65,8 @@ https://github.com/SergioChaconLopez
 𝕏 **X (Twitter)**  
 https://x.com/sergiochaconlopez
 
-📍 **Ubicació**  
-Catalunya, Espanya
+📍 **Catalunya, Espanya**
 
 ---
 
-<div align="center">
-
-⭐ **Gràcies per visitar el meu perfil de GitHub!**
-
-</div>
+⭐ **Gràcies per visitar el meu perfil!**
